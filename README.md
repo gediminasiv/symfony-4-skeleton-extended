@@ -24,4 +24,4 @@ Development
 Deployment
 ==========
 
-1. Just change the `.env` file
+1. Just change the `.env` file to use environment variables instead and plug it in as any other website pointing to `public/index.php`.
